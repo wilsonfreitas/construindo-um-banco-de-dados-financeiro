@@ -1,0 +1,5 @@
+url: https://www2.cetip.com.br/ConsultarTaxaDi/ConsultarTaxaDICetip.aspx
+type: simple
+download_weekdays: [mon, tue, wed, thu, fri]
+output_dir: TaxaCDI
+ext: json

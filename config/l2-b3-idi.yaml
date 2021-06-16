@@ -1,0 +1,3 @@
+requires: l1-b3-cdi
+input_dir: TaxaCDI
+ext: json
